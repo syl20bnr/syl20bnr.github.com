@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://syl20bnr.github.com/sitemap.xml 
