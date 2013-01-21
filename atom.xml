@@ -4,7 +4,7 @@
   <title><![CDATA[A blog in the pipeline]]></title>
   <link href="http://syl20bnr.net/atom.xml" rel="self"/>
   <link href="http://syl20bnr.net/"/>
-  <updated>2013-01-20T19:18:19-05:00</updated>
+  <updated>2013-01-20T19:25:54-05:00</updated>
   <id>http://syl20bnr.net/</id>
   <author>
     <name><![CDATA[syl20bnr]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Blog!]]></title>
+    <link href="http://syl20bnr.net/blog/2013/01/20/hello-blog/"/>
+    <updated>2013-01-20T19:24:00-05:00</updated>
+    <id>http://syl20bnr.net/blog/2013/01/20/hello-blog</id>
+    <content type="html"><![CDATA[<p>Here we go, let&#8217;s start a blogging fest!</p>
+]]></content>
+  </entry>
   
 </feed>
