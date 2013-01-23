@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://syl20bnr.net/sitemap.xml 
