@@ -1,0 +1,6 @@
+% -*- markdown -*-
+<!--/
+title: About
+type: snippet
+/-->
+Sylvain Benner's blog.

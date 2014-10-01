@@ -1,0 +1,9 @@
+% -*- markdown -*-
+<!--/
+title: Navigation
+type: snippet
+/-->
+- [<icon icon="home"> Home]({lisp}(ob:path-to-root){/lisp}/index.html)
+<!-- - [<icon icon="book"> Documentation](#) -->
+<!--     - [Quickstart]({lisp}(ob:path-to-root){/lisp}/quickstart.html) -->
+<!--     - [Bootstrap]({lisp}(ob:path-to-root){/lisp}/bootstrap-items.html) -->

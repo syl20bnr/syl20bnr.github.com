@@ -1,0 +1,6 @@
+% -*- markdown -*-
+<!--/
+title: Navigation Footer
+type: snippet
+/-->
+- [<icon icon="home"> {lisp}(ob:gettext :home){/lisp}]({lisp}(ob:path-to-root){/lisp}/index.html)

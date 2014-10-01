@@ -1,0 +1,6 @@
+% -*- markdown -*-
+<!--/
+title: Copyright
+type: snippet
+/-->
+Copyright 2014, Sylvain Benner.
